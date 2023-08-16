@@ -27,8 +27,8 @@ I am a passionate Full Stack Developer with a knack for turning ideas into elega
   <a href="https://twitter.com/shailendrayadav7" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailendrayadav7" height="30" width="40" />
   </a>
-  <a href="https://github.com/shailendrayadav7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shailendrayadav7" height="30" width="40" />
+  <a href="https://shailendrayadav7.github.io/shailendrayadav.github.io/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shailendrayadav.github.io" height="30" width="40" />
   </a>
 </p>
 
