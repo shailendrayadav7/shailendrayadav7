@@ -13,7 +13,7 @@ I am a passionate Full Stack Developer with a knack for turning ideas into elega
 ## My Interests
 
 - 🛡️ Advocating for software development and staying updated on the latest news.
-- 💼 Believing in the power of leadership and determination to overcome challenges.
+- 💼 Believe in the power of leadership and determination to overcome challenges.
 - 🏆 Hard work and passion lead to remarkable achievements.
 
 <h3 align="left">Languages and Tools:</h3>
