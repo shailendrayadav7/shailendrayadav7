@@ -6,9 +6,9 @@ Passionate Full Stack Developer with a knack for turning ideas into elegant solu
 
 ## What I Do
 
-- 🌐 Exploring new tech trends and innovations in the software world.
-- ☁️ Embracing the power of AWS Cloud to create scalable applications.
-- 🌩️ Navigating data complexities with SQL and MongoDB to uncover actionable insights.
+- 🌐 Explore new tech trends and innovations in the software world.
+- ☁️ Embrace the power of AWS Cloud to create scalable applications.
+- 🌩️ Navigate data complexities with SQL and MongoDB to uncover actionable insights.
 
 ## My Interests
 
